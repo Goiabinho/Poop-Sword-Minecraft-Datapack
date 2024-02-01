@@ -1,3 +1,3 @@
 Contains:
 Custom Crafting Recipe
-The sword odf course
+The sword of course
