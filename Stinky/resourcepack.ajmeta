@@ -1,0 +1,30 @@
+{
+    "version": "0.4.6",
+    "projects": {
+        "cf7cd500-4189-dcaf-707c-f2573c6bf296": {
+            "project_name": "goiabinho",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\goiabinho\\head.json",
+                "assets\\animated_java\\models\\item\\goiabinho\\body.json",
+                "assets\\animated_java\\models\\item\\goiabinho\\rightarm.json",
+                "assets\\animated_java\\models\\item\\goiabinho\\leftarm.json",
+                "assets\\animated_java\\models\\item\\goiabinho\\rightleg.json",
+                "assets\\animated_java\\models\\item\\goiabinho\\leftleg.json",
+                "assets\\animated_java\\textures\\item\\goiabinho\\bac8f3a82651d069_2.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "bff790c7-ed63-8fb5-f0cd-3d811be05809": {
+            "project_name": "text",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\text\\f.json",
+                "assets\\animated_java\\models\\item\\text\\n.json",
+                "assets\\animated_java\\models\\item\\text\\a.json",
+                "assets\\animated_java\\models\\item\\text\\f2.json",
+                "assets\\animated_java\\models\\item\\text\\2.json",
+                "assets\\animated_java\\textures\\item\\text\\fnaf_3.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}
